@@ -75,7 +75,7 @@ My name is Samuel Hilario Dias Fontes.
 </h2>
 <br/>
 
-- 🇧🇷 | Portuguese |Native
+- 🇧🇷 | Portuguese | Native
 - 🇺🇸 | English    | Fluent
 - 🇯🇵 | Japanese   | Beginner
 
