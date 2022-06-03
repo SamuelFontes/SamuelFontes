@@ -45,7 +45,7 @@ My name is Samuel Hilario Dias Fontes.
 </h2>
 <br/>
 
-+ Software Developer &nbsp;|&nbsp; since January 2021
++ Software Developer &nbsp;|&nbsp; Vdata Tecnologia &nbsp;|&nbsp; since January 2021
     * Full-Stack Developer using mostly ASP.NET, SQL Server. 
     * Used Azure and Azure DevOps to deploy web applications and configure pipelines. 
     * Building systems using the MVC and DDD architectures. 
@@ -53,7 +53,7 @@ My name is Samuel Hilario Dias Fontes.
 
 <br/>
 
-+ CPA Consultoria Contabil Paulista &nbsp;|&nbsp; July 2019 - January 2021
++  System Analyst  &nbsp;|&nbsp; CPA Consultoria Contabil Paulista &nbsp;|&nbsp; July 2019 - January 2021
     * Job automation and webscraping for enterprise popuses. 
     * Software development using SQL Server and Node-JS, integration with the system TOTVS RM. 
     * Building and consuming REST APIs, system integrations, front-end and back-end development of Web systems.
@@ -75,9 +75,9 @@ My name is Samuel Hilario Dias Fontes.
 </h2>
 <br/>
 
-- Portuguese | 🇧🇷 | Native
-- English | 🇺🇸 | Fluent
-- Japanese | 🇯🇵 | Beginner
+- 🇧🇷 | Portuguese |Native
+- 🇺🇸 | English    | Fluent
+- 🇯🇵 | Japanese   | Beginner
 
 <br/>
 <h2 align='center'>
