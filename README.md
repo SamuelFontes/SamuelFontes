@@ -6,7 +6,7 @@ Hi there 👋
 
 <p align="center">
 My name is Samuel Hilario Dias Fontes.
-<br/>I've been the lead developer on multiple projects since 2018. I've delivered multiple projects using web tecnologies with SQL Server integrations.<br/>
+<br/>I've been the lead developer on multiple projects since 2018. I've delivered multiple projects using web technologies with SQL Server integrations.<br/>
   
 </p>
 <br/>
